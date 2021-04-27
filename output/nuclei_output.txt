@@ -1,0 +1,4 @@
+[[36m2021-04-27 05:31:00[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://_kerberos._tcp.webmail.webserver.vpn.vpn.agent.antivirus.bo.webproxy.idc.tencent.com
+[[36m2021-04-27 05:38:16[0m] [[92muptimerobot-takeover[0m] [[94mhttp[0m] [[34minfo[0m] https://card.weibo.com
+[[36m2021-04-27 05:42:25[0m] [[92muptimerobot-takeover[0m] [[94mhttp[0m] [[34minfo[0m] https://daily.cc.163.com
+[[36m2021-04-27 06:25:04[0m] [[92muptimerobot-takeover[0m] [[94mhttp[0m] [[34minfo[0m] https://votes2.webcgi.163.com
