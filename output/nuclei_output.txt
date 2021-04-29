@@ -2,3 +2,6 @@
 [[36m2021-04-27 05:38:16[0m] [[92muptimerobot-takeover[0m] [[94mhttp[0m] [[34minfo[0m] https://card.weibo.com
 [[36m2021-04-27 05:42:25[0m] [[92muptimerobot-takeover[0m] [[94mhttp[0m] [[34minfo[0m] https://daily.cc.163.com
 [[36m2021-04-27 06:25:04[0m] [[92muptimerobot-takeover[0m] [[94mhttp[0m] [[34minfo[0m] https://votes2.webcgi.163.com
+[[36m2021-04-29 02:57:34[0m] [[92muptimerobot-takeover[0m] [[94mhttp[0m] [[34minfo[0m] http://act.cc.163.com
+[[36m2021-04-29 03:00:39[0m] [[92muptimerobot-takeover[0m] [[94mhttp[0m] [[34minfo[0m] https://payment.cc.163.com
+[[36m2021-04-29 03:01:40[0m] [[92muptimerobot-takeover[0m] [[94mhttp[0m] [[34minfo[0m] https://vapi.cc.163.com
